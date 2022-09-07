@@ -24,6 +24,12 @@ namespace MyFirstProgram
             int myNumber = Convert.ToInt32(Console.ReadLine());
             */
 
+            /*
+             Below This is for Random number generated on Initilazation of the program capped at 20
+             */
+            //Random MyRandomNumber = new Random();
+            //int myNumber = MyRandomNumber.Next(0, 20);
+
             string userInputName = "";  // variable to save User's Name
             int countingNumberMcCounty = 0; // a Counting variable for the while loop that's dynamic to stop at users number if input is active for it.
 
