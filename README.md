@@ -9,4 +9,4 @@ Then it checks on a number to see if it's greater (Talet är stort!) or lesser t
 
 then it counts from Zero (0) to the number given/generated/used in the code
 
-**Configuration available in the code for using User input on the first number**
+*Configuration available in the code for using User input on the first number or to use a Randomly generated one.*
