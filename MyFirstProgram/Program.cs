@@ -46,8 +46,9 @@ namespace MyFirstProgram
             while (countingNumberMcCounty != myNumber + 1)  
                 /* a basic "Do this While This is correct, I:E keep looping until it's no longer True. in this case keep counting up and printing it to console until myNumber then stop
                     i personally belive this is a simpler option than doing a "For" loop for this, and it shaves off some bulk in the code, 
-                    and it can also be expanded upon with the number being User input
-                 */
+                    and it can also be expanded upon with the number being User input or if it's a random number that's generated.
+                    And Yes, you can do this with a -for loop- also, but true to my nature, i'm a "lazy" programmer that wants to write less code for the same result.
+                */
             {
                 Console.WriteLine(countingNumberMcCounty);
                 countingNumberMcCounty++;
